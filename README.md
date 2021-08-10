@@ -17,4 +17,3 @@ The disparity among city types shows that ride count, fare and driver count are 
 Thus, the recommendations are:
 
 - Balance the supply and demand in urban cities, either expand customer base or decrease the supply at urban cities
--
